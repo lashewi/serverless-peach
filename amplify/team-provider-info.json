@@ -10,6 +10,11 @@
             "StackName": "amplify-serverlessreact-dev-195954",
             "StackId": "arn:aws:cloudformation:us-east-1:857151890574:stack/amplify-serverlessreact-dev-195954/e4e9c970-984a-11ea-93e7-0ece9c9311f7",
             "AmplifyAppId": "d22hy7mhicpfjo"
+        },
+        "categories": {
+            "auth": {
+                "serverlessreact1d51e68d": {}
+            }
         }
     }
 }
